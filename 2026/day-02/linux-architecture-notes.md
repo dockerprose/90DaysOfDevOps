@@ -26,4 +26,9 @@
       - replacing(exec) - replace or share to exec() family.
 
     ## Manage Processes:
-      - ps aux - top or htop - kill - nice/renice - command **&** - bg/fg -- for job control
+      - ps aux
+      - top or htop
+      - kill
+      - nice/renice
+      - command **&**
+      - bg/fg -- for job control

@@ -32,6 +32,8 @@ did't know where to showcase, but Right now, Cloud is a big market of networking
 3. **Docker + Kubernetes** – Containerize applications, write Dockerfiles, deploy and debug on Kubernetes clusters.
 (.) **Cross-Cloud Strategy (Optional)** - Building proficiency across AWS, GCP, and Azure simultaneously to enable multi-cloud architecture and flexibility.
 
+---
+
 ## 📌 3 Clear goals for 90 Days
 
 | # | Goal | Target Date |
@@ -70,7 +72,7 @@ did't know where to showcase, but Right now, Cloud is a big market of networking
 
   ---
 
-  ## Weekly Time Management## Weekly Time Management
+  ## Weekly Time Management
 
 | Day | Hours | Focus |
 |---|---|---|
